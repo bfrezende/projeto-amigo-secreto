@@ -1,4 +1,6 @@
-# Desenvolvido para o curso da Oracle One
+![Um notebook ligado com a tela do github aparcendo](https://cdn1.gnarususercontent.com.br/6/409216/ff043987-239b-4661-bdb1-7f4ca6092c48.png)
+
+# ✔ Desenvolvido para o curso da Oracle Next Education 
 
 # Challenge Amigo secreto
 **O projeto foi feito com HTML, CSS e JavaScript, , que permite adicionar nomes a uma lista, sortear aleatoriamente um deles e removê-lo da lista após o sorteio.**
