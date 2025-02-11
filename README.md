@@ -2,7 +2,7 @@
 
 # ✔ Desenvolvido para o curso da Oracle Next Education 
 
-# Challenge Amigo secreto
+# Challenge Amigo Secreto
 **O projeto foi feito com HTML, CSS e JavaScript, , que permite adicionar nomes a uma lista, sortear aleatoriamente um deles e removê-lo da lista após o sorteio.**
 
 **Funcionalidades:**
